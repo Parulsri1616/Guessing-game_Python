@@ -1,0 +1,13 @@
+noun1 = input ("Noun: ")
+place1 = input("Place: ")
+noun2 = input ("Noun: ")
+noun3 = input ("Noun: ")
+verb1 = input ("Verb: ")
+place2 = input("Place: ")
+verb2 = input ("Verb: ")
+verb3 = input ("Verb: ")
+
+madlib = (f"Once upon a time there was a {noun1} who was sent to {place1} to fought a great {noun2} with {noun3}.
+He {verb1} the creature and return to his {place2}. When he went to {verb2}.He {verb3}" )
+
+print(madlib)
